@@ -56,7 +56,7 @@ body {
 <h1>**Mission and Vision**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
-<img src="C:\Users\lequa\Downloads\mission image for SI leader.png" alt="Quang Le" style="width:300px;height: 250px;"/>
+<img src="C:\Users\lequa\Downloads\mission image for SI leader.png" alt="Quang Le" style="width:400px;height: 300px;"/>
 
 :::
 ***Note: Please review my mission and vision as a Supplemental Instruction Leader at [UHD SI Program](https://www.uhd.edu/sssl/supplemental-instruction/index.aspx).*** 
@@ -105,7 +105,7 @@ c. Motivating students to embrace challenges and view setbacks as opportunities 
 
 ::: centered
 
-<img src="C:\Users\lequa\Downloads\EICHA - Empowerment, Innovation, Community, Growth, Accessibility.png" alt="Quang Le" style="width:300px;height: 250px;"/>
+<img src="C:\Users\lequa\Downloads\vision-what-is-it-why-does-it-matter-1.jpg" alt="Quang Le" style="width:400px;height: 300px;"/>
 
 :::
 
