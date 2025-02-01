@@ -46,7 +46,10 @@ body {
   <a href="https://quangnhatm1.github.io">About Me</a>
   <a href=" https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/">Mission and Vision</a> 
   <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/">Forms</a>
-  <a href="https://quangnhatm1.github.io/Activities">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-policies-procedures/">Policies</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-activities/">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/">Projects</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
       </div>
 ```
 ::: centered
